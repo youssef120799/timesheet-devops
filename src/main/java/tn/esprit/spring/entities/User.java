@@ -19,6 +19,7 @@ import javax.persistence.TemporalType;
 public class User implements Serializable {
 
 //5arctic7
+	// 2eme commentaire apres creation de branche
 	private static final long serialVersionUID = 1L;
 
 	@Id
